@@ -1,9 +1,3 @@
-
-
-Cookies are small text files that a website stores on a user's device (computer, phone, etc.) when they visit the site. They are used for various purposes, including:
-
-
-
 In HTML, the `<select>` element is used to create a dropdown list of options that allows users to select one or more values from a list. The `<select>` element is typically used in forms to collect user input.
 
 Here are some common uses of the `<select>` element in HTML:
@@ -18,5 +12,5 @@ Here are some common uses of the `<select>` element in HTML:
 
 In the context of the code you provided, the `<select>` element is not actually used, but the text "Select Country" is used as a placeholder in a `<div>` element. It's likely that the intention is to create a dropdown list of countries using the `<select>` element, but it's not implemented yet.
 
-https://github.com/Rew321/Cookies/blob/master/static/images/page.png
-https://github.com/Rew321/Cookies/blob/master/static/images/detail.png
+https://github.com/Rew321/Select-in-html/blob/master/static/images/page.png
+https://github.com/Rew321/Select-in-html/blob/master/static/images/detail.png
